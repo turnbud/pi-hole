@@ -1,2 +1,2 @@
-0.0.0.0 youtube.com
-0.0.0.0 roblox.com
+youtube.com
+roblox.com

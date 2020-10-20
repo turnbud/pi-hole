@@ -1,4 +1,4 @@
-
-*.youtube.com
-*.roblox.com
-
+youtube.com
+www.youtube.com
+roblox.com
+www.roblox.com

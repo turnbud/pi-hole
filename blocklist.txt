@@ -1,4 +1,10 @@
-youtube.com
+my.games
+redd.it
 reddit.com
 roblox.com
-my.games
+www.my.games
+www.roblox.com
+www.reddit.com
+www.youtube.com
+youtube.com
+youtu.be

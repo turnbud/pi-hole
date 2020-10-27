@@ -5,6 +5,7 @@ gamesfreak.net
 kizi.com
 my.games
 orteil.dashnet.org
+play.google.com
 poki.com
 redd.it
 reddit.com
@@ -17,6 +18,7 @@ slitherio-o.com
 slitherio.guide
 slitherio.online
 slitherio.org
+stat.gc.my.games
 www.my.games
 www.reddit.com
 www.roblox.com
